@@ -1,0 +1,41 @@
+{
+  "people": [
+    {
+      "id": "01",
+      "img": "https://images.unsplash.com/photo-1588149882492-7307ba298921?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fGNoaW5lc2UlMjBtYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "fullName": "Zeng Zhou",
+      "age": "25",
+      "profession": "IT Engineer",
+      "degree": "MSc Engineer",
+      "country": "China",
+      "phone": "13057474417",
+      "city": "Zhoushan - Dinghai District",
+      "address": "Ding Hai Gang Ma Tou 1hao Gang Wu Da Xia 1504",
+      "description": "Zeng Zhou Hernandez is a 25-year-old gym assistant who enjoys spreading fake news on Facebook, watching sport and stealing candy from babies. He is inspiring and loveable, but can also be very lazy and a bit greedy."
+    },
+    {
+      "id": "02",
+      "img": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTA3fHxlbmdsaXNoJTIwbWVufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "fullName": "John Smith",
+      "age": "35",
+      "profession": "Stack Exchanger",
+      "country": "UK",
+      "phone": "079 6480 6115",
+      "address": "118  Whitby Road",
+      "degree": "Bachelor of Arts",
+      "description": "John Smith Evans is a 35-year-old cleaner at a studio who enjoys hockey, spreading fake news on Facebook and horse riding. He is considerate and brave, but can also be very unfriendly and a bit dull."
+    },
+    {
+      "id": "03",
+      "img": "https://images.unsplash.com/photo-1589696709084-5d65d0343dd4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzR8fGdyZWVrJTIwd29tZW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "fullName": "Demetria Politi",
+      "age": "32",
+      "profession": "Web Engineer",
+      "country": "Greece",
+      "phone": "13057474417",
+      "address": "Βαφειάδου 24-41",
+      "degree": "BSc Computer Science",
+      "description": "Demetria Politi Holmes is a 32-year-old trainee doctor who enjoys reading, photography and bridge. She is smart and friendly, but can also be very lazy and a bit boring."
+    }
+  ]
+}
